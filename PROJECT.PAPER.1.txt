@@ -1,0 +1,48 @@
+Michael Herrera
+Professor Phillip Thomas
+CIS 320
+March 2, 2016
+
+New York City Leading Causes of Death
+       The dataset used for this project deals with the leading causes of death in New York City. It involves data dealing with ethnicity, sex, causes of death, and year. The ethnicities were broken into four categories:  Asian & Pacific Islander, Hispanic, Non-Hispanic Black, and Non-Hispanic White. The genders consisted of male and female. The period in time in which the data was collected ranged from the years 2007-2011.
+Females consisted of more total deaths overall than males. The amount of deaths that occurred within males from 2007-2011 was 351,843. The total amount of deaths for females during the same time period was 363, 018. 
+The highest and lowest numbers of death per disease within the four ethnicities varied. The highest cause of death amongst the data was heart disease. It killed more people in New York City from 2007-2011 than any other cause. The lowest amounts of death is accredited to pneumonitis due to solids and liquids. In total, it only tallied a number of 24 deaths.
+Highest: Heart Disease
+Asian & Pacific Islander: 13, 974
+Hispanic: 40, 413
+Non-Hispanic Black: 67, 884
+Non-Hispanic White: 166, 704
+Overall total: 288, 975
+Lowest: Pneumonitis due to solids and liquids
+Asian & Pacific Islander: 0 
+Hispanic: 24
+Non-Hispanic Black: 0
+Non-Hispanic White: 0 
+Overall total: 24
+
+The total amount of deaths in New York per ethnicity from 2007-2011: 
+Asian & Pacific Islanders: 41,469
+Non-Hispanic Whites: 362, 925
+Non-Hispanic Blacks: 187,431
+Hispanic: 123,036
+
+Overall total: 714, 861
+
+The total amount of deaths in Sex and Ethnicity from 2007-2011
+Female:
+Asian & Pacific Islanders: 18,381
+Non-Hispanic Whites: 188,973
+Non-Hispanic Blacks: 97,818
+Hispanic: 57,846
+Male:
+Asian & Pacific Islanders: 23,088
+Non-Hispanic Whites: 188,973
+Non-Hispanic Blacks: 89,613
+Hispanic: 65190
+
+
+
+
+Herrera 2
+
+
